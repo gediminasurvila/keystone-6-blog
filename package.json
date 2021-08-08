@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "keystone-next dev",
+    "start": "keystone-next start",
+    "build": "keystone-next build"
+  },
+  "dependencies": {
+    "@keystone-next/auth": "^30.0.0",
+    "@keystone-next/fields": "^13.0.0",
+    "@keystone-next/keystone": "^23.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
